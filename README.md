@@ -1,72 +1,81 @@
-# 👋 Hi, I'm Ezenwanne Ikechukwu Solomon (Apenko)
+# Ezenwanne Ikechukwu Solomon — Apenko
 
-🚀 **Aspiring Web3 Developer | Solidity & Foundry Enthusiast**  
-🎓 Currently learning and building through **Cyfrin Updraft** by [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
+**Smart Contract Developer** · Solidity · Foundry · DeFi  
+Building on Ethereum · Based in Onitsha, Nigeria
 
----
-
-### 🧠 About Me  
-I’m passionate about **building decentralized systems** and writing **secure, efficient smart contracts** that solve real-world problems.  
-Right now, I’m focused on mastering **Solidity**, **Foundry**, and **frontend integrations** to become a full-stack Web3 developer.  
-
-💬 *“Consistency > speed — one deployment at a time.”*
+> *"Consistency over speed — one deployment at a time."*
 
 ---
 
-### 🛠️ Tech Stack  
+## About
 
-**Languages:**  
-`Solidity` • `JavaScript (basic)` • `HTML` • `Python (beginner)`
+I'm a Web3 developer focused on writing secure, well-tested smart contracts. I work primarily with Solidity and Foundry, and I'm currently advancing through [Cyfrin Updraft](https://updraft.cyfrin.io) by [@PatrickAlphaC](https://twitter.com/PatrickAlphaC) — working through DeFi, Cross-Chain tokens, Upgradeable Contracts, Account Abstraction, and Security.
 
-**Frameworks & Tools:**  
-`Foundry` • `Remix` • `Chainlink VRF` • `Ethers.js`
-
-**Blockchain Networks:**  
-`Ethereum` • `Sepolia Testnet`
-
-**Version Control:**  
-`Git` • `GitHub`
+My goal is to become a professional smart contract developer who ships code that's not just functional, but auditable and production-ready.
 
 ---
 
-### 🧩 Featured Web3 Projects  
+## Tech Stack
 
-| 🧱 Project | 📝 Description | ⚙️ Stack |
-|------------|----------------|----------|
-| [foundry-fund-me-contract](https://github.com/Apenko/foundry-fund-me-contract) | A decentralized funding contract built and tested using Foundry | Solidity, Foundry |
-| [foundry-simple-storage-contract](https://github.com/Apenko/foundry-simple-storage-contract) | Simple contract demonstrating Foundry workflow | Solidity, Foundry |
-| [remix-fund-me-contract](https://github.com/Apenko/remix-fund-me-contract) | FundMe smart contract deployed via Remix IDE | Solidity, Remix |
-| [remix-simple-storage-contract](https://github.com/Apenko/remix-simple-storage-contract) | My first smart contract — storing and retrieving values on Ethereum | Solidity, Remix |
-| [html-fund-me](https://github.com/Apenko/html-fund-me) | Frontend interface for interacting with FundMe smart contract | HTML, JavaScript, Ethers.js |
-| [foundry-smart-contract-lottery](https://github.com/Apenko/foundry-smart-contract-lottery) | A Chainlink VRF-powered lottery contract built with Foundry | Solidity, Foundry, Chainlink |
+**Core:** `Solidity` · `Foundry` · `Ethereum` · `EVM`  
+**Tools:** `Chainlink VRF` · `Chainlink Price Feeds` · `Remix` · `Ethers.js`  
+**Testing:** `Unit Tests` · `Integration Tests` · `Fuzz Tests`  
+**Networks:** `Ethereum Mainnet` · `Sepolia Testnet`  
+**Other:** `Git` · `GitHub` · `JavaScript (basic)` · `Python (beginner)`
 
 ---
 
-### 🧭 Learning Journey  
+## Featured Projects
 
-✅ **Solidity Basics** — mastered syntax, data types, and contract structure  
-✅ **Remix Projects** — deployed and tested first contracts  
-✅ **Foundry Fundamentals** — testing, deployment, automation  
-🔄 **Frontend Integration** — connecting contracts to UI  
-🔜 **Smart Contract Lottery (VRF)** — *in progress*  
+### 🪙 [Foundry ERC-20 Token](https://github.com/Apenko/my-ERC20-token)
+A fully deployed ERC-20 token built with Solidity and Foundry. Includes deployment scripts, transfer logic, and a complete test suite.  
+`Solidity` `Foundry` `ERC-20`
 
 ---
 
-### 🌍 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ezenwanne-ikechukwu-solomon-880a80345)  
-- 🐦 [Twitter](https://twitter.com/Apenko2)  
-- 💻 [GitHub](https://github.com/Apenko)  
-- 📧 **ezenwanneikechukwu2@gmail.com**
+### 🖼️ [NFT Collection — On-Chain SVG](https://github.com/Apenko/my-foundry-NFT)
+An NFT project where all metadata and artwork is stored **entirely on-chain** using Base64 encoding and SVG generation — no IPFS dependency. Includes ERC-721 implementation, dynamic tokenURI, and Foundry tests.  
+`Solidity` `Foundry` `ERC-721` `Base64` `On-chain SVG`
 
 ---
 
-### 💡 Quote I Live By  
-
-> “Don’t rush the process — learn deeply, build slowly, and the results will speak for themselves.”
+### 🎰 [Smart Contract Lottery](https://github.com/Apenko/foundry-smart-contract-lottery)
+A provably fair, automated lottery powered by **Chainlink VRF** for verifiable randomness and **Chainlink Automation** for trustless draws. Built and tested with Foundry.  
+`Solidity` `Foundry` `Chainlink VRF` `Chainlink Automation`
 
 ---
 
-⭐ **If you like my projects, give them a star!**  
+### 💰 [Foundry FundMe](https://github.com/Apenko/foundry-fund-me-contract)
+A decentralized crowdfunding contract with USD price feed integration via Chainlink. Full Foundry test suite including mock price feeds.  
+`Solidity` `Foundry` `Chainlink Price Feeds`
+
+---
+
+### 🌐 [HTML FundMe Frontend](https://github.com/Apenko/html-fund-me)
+A minimal frontend interface for interacting with the FundMe smart contract directly from the browser.  
+`HTML` `JavaScript` `Ethers.js`
+
+---
+
+## Learning Progress
+
+| Module | Status |
+|--------|--------|
+| Blockchain Basics | ✅ Complete |
+| Solidity 101 | ✅ Complete |
+| Foundry Fundamentals | ✅ Complete |
+| Advanced Foundry — ERC-20 | ✅ Complete |
+| Advanced Foundry — NFT Collection | ✅ Complete |
+| Advanced Foundry — DeFi / Stablecoin | 🔄 In progress (52%) |
+| Advanced Foundry — Cross Chain Rebase Token | ⏳ Upcoming |
+| Advanced Foundry — Upgradeable Contracts | ⏳ Upcoming |
+| Advanced Foundry — Account Abstraction | ⏳ Upcoming |
+| Advanced Foundry — Security | ⏳ Upcoming |
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ezenwanne-ikechukwu-solomon-880a80345) · [Twitter / X](https://twitter.com/Apenko2) · [GitHub](https://github.com/Apenko) · ezenwanneikechukwu2@gmail.com
 Your support keeps me motivated to keep building and sharing my Web3 journey 💪
 

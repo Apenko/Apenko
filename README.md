@@ -1,7 +1,7 @@
 # Ezenwanne Ikechukwu Solomon — Apenko
 
 **Smart Contract Developer** · Solidity · Foundry · DeFi  
-Building on Ethereum · Based in Onitsha, Nigeria
+Building on Ethereum · Based in Nigeria
 
 > *"Consistency over speed — one deployment at a time."*
 

@@ -27,6 +27,12 @@ My goal is to become a professional smart contract developer who ships code that
 
 ## Featured Projects
 
+### 🏦 [DeFi Stablecoin Engine — DSCEngine](https://github.com/Apenko/foundry-DeFi-StableCoin)
+A decentralized, overcollateralized stablecoin system where 1 DSC = $1 USD. Backed by WETH and WBTC with real-time Chainlink price feeds. Features health factor calculations, a liquidation mechanism with 10% bonus, oracle staleness protection, and a full test suite including fuzz tests and invariant testing.  
+`Solidity` `Foundry` `DeFi` `Chainlink Price Feeds` `Fuzz Testing` `OpenZeppelin`
+
+---
+
 ### 🪙 [Foundry ERC-20 Token](https://github.com/Apenko/my-ERC20-token)
 A fully deployed ERC-20 token built with Solidity and Foundry. Includes deployment scripts, transfer logic, and a complete test suite.  
 `Solidity` `Foundry` `ERC-20`
@@ -66,8 +72,8 @@ A minimal frontend interface for interacting with the FundMe smart contract dire
 | Foundry Fundamentals | ✅ Complete |
 | Advanced Foundry — ERC-20 | ✅ Complete |
 | Advanced Foundry — NFT Collection | ✅ Complete |
-| Advanced Foundry — DeFi / Stablecoin | 🔄 In progress (52%) |
-| Advanced Foundry — Cross Chain Rebase Token | ⏳ Upcoming |
+| Advanced Foundry — DeFi / Stablecoin | ✅ Complete |
+| Advanced Foundry — Cross Chain Rebase Token | 🔄 In progress |
 | Advanced Foundry — Upgradeable Contracts | ⏳ Upcoming |
 | Advanced Foundry — Account Abstraction | ⏳ Upcoming |
 | Advanced Foundry — Security | ⏳ Upcoming |
@@ -77,5 +83,6 @@ A minimal frontend interface for interacting with the FundMe smart contract dire
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ezenwanne-ikechukwu-solomon-880a80345) · [Twitter / X](https://twitter.com/Apenko2) · [GitHub](https://github.com/Apenko) · ezenwanneikechukwu2@gmail.com
+
 Your support keeps me motivated to keep building and sharing my Web3 journey 💪
 

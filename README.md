@@ -9,7 +9,7 @@ Building on Ethereum · Based in Nigeria
 
 ## About
 
-I'm a Web3 developer focused on writing secure, well-tested smart contracts. I work primarily with Solidity and Foundry, and I'm currently advancing through [Cyfrin Updraft](https://updraft.cyfrin.io) by [@PatrickAlphaC](https://twitter.com/PatrickAlphaC) — working through DeFi, Cross-Chain tokens, Upgradeable Contracts, Account Abstraction, and Security.
+I'm a Web3 developer focused on writing secure, well-tested smart contracts. I work primarily with Solidity and Foundry, and I'm currently advancing through [Cyfrin Updraft](https://updraft.cyfrin.io)  — working through NFT Collection, DeFi, Cross-Chain tokens, Airdrop & Signatures, Upgradeable Contracts, Account Abstraction, DAOs and Security.
 
 My goal is to become a professional smart contract developer who ships code that's not just functional, but auditable and production-ready.
 
@@ -17,15 +17,21 @@ My goal is to become a professional smart contract developer who ships code that
 
 ## Tech Stack
 
-**Core:** `Solidity` · `Foundry` · `Ethereum` · `EVM`  
-**Tools:** `Chainlink VRF` · `Chainlink Price Feeds` · `Remix` · `Ethers.js`  
-**Testing:** `Unit Tests` · `Integration Tests` · `Fuzz Tests`  
-**Networks:** `Ethereum Mainnet` · `Sepolia Testnet`  
+**Core:** `Solidity` · `Foundry` · `Ethereum` · `EVM` · `ZKsync`  
+**Tools:** `Chainlink VRF` · `Chainlink Price Feeds` · `Chainlink CCIP` · `Remix` · `Ethers.js`  
+**Testing:** `Unit Tests` · `Integration Tests` · `Fuzz Tests` · `Fork Tests`  
+**Networks:** `Ethereum Mainnet` · `Sepolia Testnet` · `ZKsync Sepolia`  
 **Other:** `Git` · `GitHub` · `JavaScript (basic)` · `Python (beginner)`
 
 ---
 
 ## Featured Projects
+
+### 🔗 [Cross-Chain Rebase Token](https://github.com/Apenko/foundry-Cross-Chain-Rebase-Token)
+A cross-chain rebase token protocol that allows users to deposit ETH into a vault, earn interest through a rebasing mechanism, and bridge their tokens across chains using Chainlink CCIP. Each user's interest rate is locked in at deposit time and preserved across chains — meaning the rate travels with the tokens through the CCIP message payload and is restored identically on the destination chain. Deployed and bridged live between Sepolia and ZKsync Sepolia.  
+`Solidity` `Foundry` `Chainlink CCIP` `ZKsync` `Cross-Chain` `DeFi` `OpenZeppelin`
+
+---
 
 ### 🏦 [DeFi Stablecoin Engine — DSCEngine](https://github.com/Apenko/foundry-DeFi-StableCoin)
 A decentralized, overcollateralized stablecoin system where 1 DSC = $1 USD. Backed by WETH and WBTC with real-time Chainlink price feeds. Features health factor calculations, a liquidation mechanism with 10% bonus, oracle staleness protection, and a full test suite including fuzz tests and invariant testing.  
@@ -73,9 +79,11 @@ A minimal frontend interface for interacting with the FundMe smart contract dire
 | Advanced Foundry — ERC-20 | ✅ Complete |
 | Advanced Foundry — NFT Collection | ✅ Complete |
 | Advanced Foundry — DeFi / Stablecoin | ✅ Complete |
-| Advanced Foundry — Cross Chain Rebase Token | 🔄 In progress |
+| Advanced Foundry — Cross-Chain Rebase Token | ✅ Complete |
+| Advanced Foundry — Airdrop & Signatures | ⏳ Upcoming |
 | Advanced Foundry — Upgradeable Contracts | ⏳ Upcoming |
 | Advanced Foundry — Account Abstraction | ⏳ Upcoming |
+| Advanced Foundry — DAOs | ⏳ Upcoming |
 | Advanced Foundry — Security | ⏳ Upcoming |
 
 ---
@@ -85,4 +93,3 @@ A minimal frontend interface for interacting with the FundMe smart contract dire
 [LinkedIn](https://www.linkedin.com/in/ezenwanne-ikechukwu-solomon-880a80345) · [Twitter / X](https://twitter.com/Apenko2) · [GitHub](https://github.com/Apenko) · ezenwanneikechukwu2@gmail.com
 
 Your support keeps me motivated to keep building and sharing my Web3 journey 💪
-
